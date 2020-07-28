@@ -1,0 +1,5 @@
+engine_type,wing_position,bulges,plane
+propeller,,,C130
+jet,low,,B747P
+jet,high,none,C5A
+jet,high,aft wing,C141
